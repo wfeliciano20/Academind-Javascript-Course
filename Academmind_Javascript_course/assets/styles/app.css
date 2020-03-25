@@ -1,0 +1,32 @@
+header {
+    margin: 0;
+    background-color: #003365;
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: #003365;
+}
+
+#calculator {
+    margin: auto;
+    border: 2px;
+    border-style: solid;
+    padding: 5% 10%;
+    width: 20%;
+}
+
+#results {
+    margin: auto;
+    border: 2px;
+    border-style: solid;
+    padding: 5% 10%;
+    width: 20%;
+}
+
+#calc-actions {
+    margin-top: 5%;
+}
